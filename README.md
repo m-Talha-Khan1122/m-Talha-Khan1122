@@ -132,10 +132,4 @@ Build AI products that solve meaningful problems and contribute to the open-sour
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
 </p>
 
-### ☁️ Cloud & Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker" />
-</p>
-
 ---
