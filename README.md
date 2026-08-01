@@ -1,13 +1,28 @@
 <div align="center">
 
-# 🤲 Assalamu Alaikum
+# Assalamu Alaikum🖐️ 
 
-# M_Talha_khan
+## M_Talha_khan
 
-### Artificial Intelligence Student
-### Machine Learning • Deep Learning • Natural Language Processing
+### Artificial Intelligence Student • Machine Learning • Deep Learning • NLP
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Natural+Language+Processing;Building+AI+Projects+From+Scratch;Always+Learning+Something+New" />
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Natural+Language+Processing;Building+AI+Projects+From+Scratch" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -15,27 +30,25 @@
 
 # 👨‍💻 About Me
 
-I'm **M_Talha_khan**, an **Artificial Intelligence student** with a strong passion for solving real-world problems through AI.
+I'm **M_Talha_khan**, an Artificial Intelligence student passionate about building intelligent systems that solve real-world problems.
 
-I enjoy learning by **building projects from scratch**, understanding the mathematics behind machine learning algorithms, and exploring modern AI technologies.
+Instead of only studying AI theory, I enjoy implementing algorithms from scratch to understand how they work internally and applying them to practical projects.
 
-My primary interests include:
+### 🚀 Areas of Interest
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - ⚡ Deep Learning
 - 💬 Natural Language Processing
-- 🔥 Transformer Architecture
-- 📖 Large Language Models
+- 🔥 Transformers
 - 👁 Computer Vision
-
-I believe that the best way to learn AI is by creating practical projects and continuously improving through experimentation.
+- 📚 Large Language Models
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Science in Artificial Intelligence**
+🎓 Bachelor of Science in Artificial Intelligence
 
 🏫 Islamia College Peshawar
 
@@ -45,43 +58,35 @@ I believe that the best way to learn AI is by creating practical projects and co
 
 # 🌱 Currently Learning
 
-- Transformer Architecture
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Advanced PyTorch
-- LangChain
-- Generative AI
+- 🤖 Large Language Models (LLMs)
+
+- ⚡ Transformer Architecture
+
+- 📚 Retrieval-Augmented Generation (RAG)
+
+- 🔥 LangChain
+
+- 🚀 AI Agents
+
+- 💡 Advanced PyTorch
 
 ---
 
 # 💻 Tech Stack
 
-## 🚀 Programming Languages
+### 🚀 Programming Languages
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
 
 </p>
 
----
+### 🤖 AI & Machine Learning
 
-## 🤖 AI & Machine Learning
+<p>
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 </p>
 
@@ -97,51 +102,25 @@ I believe that the best way to learn AI is by creating practical projects and co
 
 </p>
 
----
-
-## 🌐 Web Technologies
+### 🌐 Web Development
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=html,css,flask"/>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+### 🛠️ Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,mysql"/>
 
 </p>
 
 ---
 
-## 🛠 Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-# 💡 Philosophy
+# 💡 Favorite Verse
 
 > **"Indeed, with hardship comes ease."**
 >
