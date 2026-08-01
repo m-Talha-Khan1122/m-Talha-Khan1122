@@ -177,3 +177,90 @@ Build AI products that solve meaningful problems and contribute to the open-sour
 </p>
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 English → Urdu Transformer
+
+A complete Transformer architecture built **from scratch** using PyTorch for English-to-Urdu machine translation.
+
+**Tech Stack**
+
+- Python
+- PyTorch
+- NLP
+- Transformers
+- Deep Learning
+
+</td>
+
+<td width="50%">
+
+### 🧠 BERT & NLP
+
+Natural Language Processing projects including sentiment analysis, text preprocessing, embeddings, and transformer-based models.
+
+**Tech Stack**
+
+- BERT
+- TensorFlow
+- Hugging Face
+- Scikit-Learn
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎨 BabyBull NFT Collection
+
+A complete NFT collection project including character generation, metadata creation, rarity management, and Solana NFT preparation.
+
+</td>
+
+<td width="50%">
+
+### 📚 AI & Machine Learning
+
+Machine Learning, Deep Learning, Computer Vision, and NLP experiments built while learning Artificial Intelligence.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 🌱 Currently Learning
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents
+- 📖 Retrieval-Augmented Generation (RAG)
+- 🔥 LangChain
+- ⚡ PyTorch Advanced
+- 🚀 MLOps
+- ☁️ Cloud AI
+
+---
+# 🎯Future Goals
+
+✅ Build Production AI Projects
+
+✅ Contribute to Open Source
+
+✅ Publish Research-Level AI Projects
+
+✅ Learn LLM Engineering
+
+✅ Build AI SaaS Applications
+
+✅ Land an AI Engineer Role
+
+---
