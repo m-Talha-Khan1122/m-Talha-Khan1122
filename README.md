@@ -1,16 +1,18 @@
 <div align="center">
 
-# Assalamu Alaikum🖐️ 
+# 🤲 Assalamu Alaikum
 
-## Muhammad Talha Khan
+# M_Talha_khan
 
-### Artificial Intelligence Student • Machine Learning • Deep Learning • NLP
+### Artificial Intelligence Student
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Natural+Language+Processing;Building+AI+Projects+From+Scratch" />
+### Machine Learning • Deep Learning • Natural Language Processing
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Natural+Language+Processing;Building+AI+Projects+From+Scratch;Always+Learning+Something+New" />
 </p>
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -30,44 +32,31 @@
 
 # 👨‍💻 About Me
 
-I'm **M_Talha_khan**, an Artificial Intelligence student passionate about building intelligent systems that solve real-world problems.
+I'm **M_Talha_khan**, a passionate **Artificial Intelligence student** dedicated to building intelligent systems that solve real-world problems.
 
-Instead of only studying AI theory, I enjoy implementing algorithms from scratch to understand how they work internally and applying them to practical projects.
+I believe the best way to master AI is to understand how models work internally, which is why I enjoy implementing algorithms **from scratch** instead of relying only on high-level libraries.
 
-### 🚀 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚡ Deep Learning
-- 💬 Natural Language Processing
-- 🔥 Transformers
-- 👁 Computer Vision
-- 📚 Large Language Models
+My interests span Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Large Language Models. Every project I build is another step toward becoming a skilled AI Engineer.
 
 ---
 
 # 🎓 Education
 
-🎓 Bachelor of Science in Artificial Intelligence
+🎓 **Bachelor of Science in Artificial Intelligence**
 
-🏫 Islamia College Peshawar
+🏫 **Islamia College Peshawar**
 
-📍 Khyber Pakhtunkhwa, Pakistan
+📍 **Khyber Pakhtunkhwa, Pakistan**
 
 ---
 
 # 🌱 Currently Learning
 
 - 🤖 Large Language Models (LLMs)
-
 - ⚡ Transformer Architecture
-
 - 📚 Retrieval-Augmented Generation (RAG)
-
 - 🔥 LangChain
-
 - 🚀 AI Agents
-
 - 💡 Advanced PyTorch
 
 ---
@@ -76,21 +65,17 @@ Instead of only studying AI theory, I enjoy implementing algorithms from scratch
 
 ### 🚀 Programming Languages
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript"/>
-
 </p>
 
 ### 🤖 AI & Machine Learning
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 </p>
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
@@ -104,26 +89,19 @@ Instead of only studying AI theory, I enjoy implementing algorithms from scratch
 
 ### 🌐 Web Development
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,flask"/>
-
 </p>
 
-### 🛠️ Development Tools
+### 🛠️ Tools & Platforms
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,mysql"/>
-
 </p>
 
 ---
 
-# 💡 Favorite Verse
-
-> **"Indeed, with hardship comes ease."**
->
+> **"Indeed, with hardship comes ease."**  
 > **— Surah Ash-Sharh (94:6)**
 
 ---
@@ -131,11 +109,13 @@ Instead of only studying AI theory, I enjoy implementing algorithms from scratch
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m-Talha-Khan1122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-Talha-Khan1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Talha-Khan1122&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-Talha-Khan1122&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -153,60 +133,41 @@ Instead of only studying AI theory, I enjoy implementing algorithms from scratch
 
 <td width="50%" valign="top">
 
-## 🤖 Training Transformer From Scratch
+### 🤖 Training Transformer From Scratch
 
-A complete **Transformer architecture** implemented from scratch for **English → Urdu Machine Translation**.
+✔ English → Urdu Translation
 
-### Technologies
+✔ Transformer Architecture
 
-- Python
-- PyTorch
-- NLP
-- Attention Mechanism
-- Transformer Architecture
+✔ Multi-Head Attention
 
-</td>
+✔ Positional Encoding
 
-<td width="50%" valign="top">
+✔ PyTorch
 
-## 🧠 BERT & NLP
+<br>
 
-Collection of NLP projects including:
-
-- Sentiment Analysis
-- Word Embeddings
-- Text Classification
-- Hugging Face
-- BERT Fine-Tuning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎨 BabyBull Blockchain
-
-NFT Collection Development
-
-- Character Generation
-- Metadata
-- Rarity System
-- Solana NFT
+**Repository:** *(Update the link later)*
 
 </td>
 
 <td width="50%" valign="top">
 
-## 😷 Face Mask Detection
+### 🧠 BERT & NLP
 
-Deep Learning based Computer Vision project using PyTorch.
+✔ Sentiment Analysis
 
-- Image Classification
-- CNN
-- PyTorch
+✔ Word Embeddings
+
+✔ Hugging Face
+
+✔ Text Classification
+
+✔ Transformer Models
+
+<br>
+
+**Repository:** *(Update the link later)*
 
 </td>
 
@@ -216,17 +177,77 @@ Deep Learning based Computer Vision project using PyTorch.
 
 <td width="50%" valign="top">
 
-## 😂 AI Joke Generator
+### 🎨 BabyBull Blockchain
 
-LSTM-powered AI capable of generating jokes using Natural Language Processing.
+✔ NFT Collection
+
+✔ Metadata Generation
+
+✔ Rarity System
+
+✔ Solana Learning
+
+<br>
+
+**Repository:** *(Update the link later)*
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 Python Basics
+### 😷 Mask Detection using PyTorch
 
-Programming exercises, algorithms, OOP concepts and Python fundamentals.
+✔ Computer Vision
+
+✔ CNN
+
+✔ Image Classification
+
+✔ PyTorch
+
+<br>
+
+**Repository:** *(Update the link later)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 😂 AI Joke Generator
+
+✔ LSTM
+
+✔ Text Generation
+
+✔ Natural Language Processing
+
+✔ Deep Learning
+
+<br>
+
+**Repository:** *(Update the link later)*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Python Basics
+
+✔ Python Programming
+
+✔ OOP
+
+✔ Algorithms
+
+✔ Problem Solving
+
+<br>
+
+**Repository:** *(Update the link later)*
 
 </td>
 
@@ -240,50 +261,34 @@ Programming exercises, algorithms, OOP concepts and Python fundamentals.
 
 - 🤖 Large Language Models (LLMs)
 
+- ⚡ AI Agents
+
 - 🔥 LangChain
 
-- 🧠 Retrieval-Augmented Generation (RAG)
-
-- ⚡ AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
 
 - 🚀 MLOps
 
-- 📖 Research Papers
+- 📖 AI Research Papers
 
 ---
 
 # 🎯 Future Goals
 
-✔ Become an AI Engineer
+- ✅ Become an AI Engineer
 
-✔ Build AI Products used by thousands of people
+- ✅ Build Production-Level AI Applications
 
-✔ Contribute to Open Source
+- ✅ Contribute to Open Source
 
-✔ Master Large Language Models
+- ✅ Master Large Language Models
 
-✔ Publish AI Research
+- ✅ Publish AI Research
 
-✔ Keep Learning Every Day
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:mtalhakhan649@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/m-Talha-Khan1122">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+- ✅ Build AI Products that Create Real Impact
 
 ---
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
@@ -303,14 +308,22 @@ Programming exercises, algorithms, OOP concepts and Python fundamentals.
 
 ---
 
-# 🌟 Fun Facts
+# 🌟 Fun Facts About Me
 
-- 🧠 I enjoy building AI models from scratch to understand how they work.
-- 📚 I believe learning comes from building real-world projects.
-- 🤝 I enjoy collaborating and sharing knowledge with others.
-- 🚀 Every project is an opportunity to learn something new.
+💡 I enjoy understanding AI models by implementing them from scratch.
+
+📚 I believe consistency beats talent when learning new technologies.
+
+🤝 I enjoy collaborating, sharing knowledge, and helping others grow.
+
+🚀 Every project teaches me something new.
 
 ---
+
+# 🏅 Certifications & Achievements
+
+> 🚧 This section will be updated as I complete more certifications, research, and open-source contributions.
+
 ---
 
 # 💭 Favorite Verse
@@ -325,12 +338,26 @@ Programming exercises, algorithms, OOP concepts and Python fundamentals.
 
 ---
 
+# 📌 Quote I Live By
+
 <div align="center">
 
-## ⭐ Thank You for Visiting ⭐
-
-*"May Allah bless our knowledge, guide our efforts, and grant success in beneficial work. Ameen."*
-
-If you like my work, feel free to ⭐ my repositories and connect with me.
+*"The best investment you can make is in your knowledge. The more you learn, the more value you can create."*
 
 </div>
+
+---
+
+<div align="center">
+
+# ⭐ Thank You for Visiting ⭐
+
+If you like my work, consider giving a ⭐ to the repositories you enjoy.
+
+May Allah ﷻ bless our knowledge, guide our efforts, and grant us success in beneficial work.
+
+**JazakAllahu Khairan for visiting my profile. 🤍**
+
+</div>
+
+---
