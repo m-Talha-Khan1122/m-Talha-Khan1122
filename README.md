@@ -37,3 +37,40 @@ Artificial Intelligence Student | Machine Learning | Deep Learning | NLP Enthusi
 - 🐍 Python AI Applications
 
 ---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 👨‍💻 About Me
+
+🎓 **BS Artificial Intelligence Student**
+
+🏫 **Islamia College Peshawar**
+
+📍 **Upper Dir, Khyber Pakhtunkhwa, Pakistan**
+
+💡 Passionate about solving real-world problems with **Artificial Intelligence**
+
+🧠 Interested in:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Computer Vision
+- Generative AI
+- Blockchain & NFTs
+
+🌱 **Currently Learning**
+
+- Transformers from Scratch
+- BERT
+- LangChain
+- RAG Systems
+- AI Agents
+- MLOps
+
+🚀 **Current Goal**
+
+Build AI products that solve meaningful problems and contribute to the open-source community.
+
+---
