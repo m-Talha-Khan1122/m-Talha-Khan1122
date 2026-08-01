@@ -364,3 +364,12 @@ May Allah ﷻ bless our knowledge, guide our efforts, and grant us success in be
 </div>
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/m-Talha-Khan1122/m-Talha-Khan1122/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
