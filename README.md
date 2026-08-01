@@ -74,3 +74,68 @@ Artificial Intelligence Student | Machine Learning | Deep Learning | NLP Enthusi
 Build AI products that solve meaningful problems and contribute to the open-source community.
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mtalhakhan649@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/m-Talha-Khan1122">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+# 💻 Tech Stack
+
+### 🚀 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,flask" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda" />
+</p>
+
+### ☁️ Cloud & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+---
