@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤲 Assalamu Alaikum
+# Assalamu Alaikum🖐️
 
-# M_Talha_khan
+# Muhammad Talha Khan
 
 ### Artificial Intelligence Student
 
