@@ -150,27 +150,7 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 <br>
 
-**Repository:** *(Update the link later)*
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 BERT & NLP
-
-✔ Sentiment Analysis
-
-✔ Word Embeddings
-
-✔ Hugging Face
-
-✔ Text Classification
-
-✔ Transformer Models
-
-<br>
-
-**Repository:** *(Update the link later)*
+**Repository:** *(https://github.com/m-Talha-Khan1122/Training_Transformer_From_Scratch)*
 
 </td>
 
@@ -192,7 +172,7 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 <br>
 
-**Repository:** *(Update the link later)*
+**Repository:** *((https://github.com/m-Talha-Khan1122/BabyBull-Blockchain))*
 
 </td>
 
@@ -210,7 +190,7 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 <br>
 
-**Repository:** *(Update the link later)*
+**Repository:** *(https://github.com/m-Talha-Khan1122/mask_detection_project)*
 
 </td>
 
@@ -232,7 +212,7 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 <br>
 
-**Repository:** *(Update the link later)*
+**Repository:** *(https://github.com/m-Talha-Khan1122/AI-Joke-Generator)*
 
 </td>
 
@@ -250,7 +230,7 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 <br>
 
-**Repository:** *(Update the link later)*
+**Repository:** *(https://github.com/m-Talha-Khan1122/python_basics_concepts)*
 
 </td>
 
