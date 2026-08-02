@@ -154,9 +154,32 @@ My interests span Machine Learning, Deep Learning, Natural Language Processing, 
 
 </td>
 
-</tr>
-
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖Unidirectional VS Bidirectional Technique in NLP
+
+✔ BILSTM
+
+✔ It's Architecture
+
+✔ BiRNN
+
+✔ It's Architecture
+
+✔BiGRU
+
+✔ It's Architecture
+
+<br>
+
+**Repository:** *(https://github.com/m-Talha-Khan1122/Unidirectional-vs-Bidirectional-NLP-Models)*
+
+
+</td>
+
+</tr>
 
 <td width="50%" valign="top">
 
